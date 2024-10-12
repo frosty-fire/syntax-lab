@@ -4,4 +4,3 @@ int main() {
     functionMain();
     return 0;
 }
-

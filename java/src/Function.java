@@ -6,6 +6,8 @@ public class Function {
 
     public static void main(String[] args) {
         System.out.println(add_s(1,2));
+        var func = new Function();
+        System.out.println(func.add(1,2));
     }
 
     public static int add_s(int a, int b) {
